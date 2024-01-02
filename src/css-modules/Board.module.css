@@ -1,0 +1,17 @@
+.board_l{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    height: 400px;
+    width: 400px;
+    border: 1rem solid rgb(124, 91, 51);
+    margin-top: 3rem;
+}
+
+.board_d{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    height: 400px;
+    width: 400px;
+    border: 1rem solid rgb(189, 161, 126);
+    margin-top: 3rem;
+}

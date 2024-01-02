@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  background-color: rgb(93, 122, 110);
+  height:100vh;
+}
+
+.app_title{
+  height: 60px;
+  background-color: rgb(235, 179, 104);
+  
+}
+.app_title > div {
+  font-size: 3rem;
+}
